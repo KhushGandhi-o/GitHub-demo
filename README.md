@@ -1,3 +1,4 @@
 # GitHub-demo
 First Git repository.
-Author - Khush Gandhi
+<br>
+Author - Khush Gandhi.
